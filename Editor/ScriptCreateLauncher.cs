@@ -6,7 +6,7 @@ using System.Linq;
 using System.Collections.Generic;
 using System.Reflection;
 
-namespace St.EditorExtention
+namespace St.EditorExtension
 {
     public class ScriptCreateLauncher : EditorWindow
     {
