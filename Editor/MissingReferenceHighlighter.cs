@@ -5,7 +5,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Reflection;
 
-namespace St.EditorExtention
+namespace St.EditorExtension
 {
     [InitializeOnLoad]
     public class MissingReferenceHighlighter
